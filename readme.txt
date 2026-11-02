@@ -17,7 +17,7 @@ Technologies Used
 
 How to Play
 1. Enter your name.
-2. Type `yes` to begin the quiz or `exit` to quit.
-3. Read each question and choose an option (`a`, `b`, `c`, or `d`).
+2. Type "yes" to begin the quiz or "exit" to quit.
+3. Read each question and choose an option (a, b, c, or d).
 4. Earn virtual prize money for every correct answer.
 5. One incorrect answer ends the game!
