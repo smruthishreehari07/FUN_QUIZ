@@ -1,5 +1,4 @@
 Fun Quiz
-
 A simple and interactive General Knowledge Quiz built using Python. Test your knowledge with multiple-choice questions covering everyday facts, animals, geography, sports and more!
 
 Features
